@@ -21,12 +21,35 @@ public class EstructurasEstaticas {
 
         // Ejemplos
 
-        String name = "Samuel";
-        int edad = 18;
-        Boolean soltero = false;
-        char primeraletraname = 'S';
-        float ganancias = 20 / 3;
+        String string1 = "Hola";
+        String string2 = "Java";
+        String string3 = "ChatGPT";
+        String string4 = "12345";
+        String string5 = "¡Bienvenido!";
 
+        int num1 = 10;
+        int num2 = -25;
+        int num3 = 0;
+        int num4 = 999999;
+        int num5 = 42;
+
+        boolean bool1 = true;
+        boolean bool2 = false;
+        boolean bool3 = (5 > 3);    // true
+        boolean bool4 = (10 == 5);  // false
+        boolean bool5 = (7 != 2);   // true
+        
+        char caracter1 = 'a';
+        char caracter2 = 'Z';
+        char caracter3 = '9';
+        char caracter4 = '$';
+        char caracter5 = 'ñ';
+
+        float float1 = 3.14f;
+        float float2 = -0.5f;
+        float float3 = 2.718f;
+        float float4 = 1000.0001f;
+        float float5 = 0.0f;
 
 
     } 
